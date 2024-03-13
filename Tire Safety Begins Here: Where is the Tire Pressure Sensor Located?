@@ -20,7 +20,7 @@ Types of TPMS Systems
 
 There are two primary types of TPMS systems: direct and indirect. Direct TPMS employs dedicated sensors mounted inside each wheel, measuring the actual air pressure and transmitting this data wirelessly to the vehicle's computer. Indirect TPMS, on the other hand, relies on the anti-lock braking system (ABS) to monitor the rotational speeds of each wheel. An underinflated tire will rotate at a different speed than the others, allowing the system to detect the discrepancy and trigger a warning.
 
-Identifying Your Vehicle's TPMS
+Identifying Your Vehicle's TPMS 
 
 Determining which type of TPMS your vehicle uses can be accomplished through various methods. A visual inspection of the valve stems may reveal bulkier, metal components indicative of direct sensors. Alternatively, consulting the vehicle's owner's manual or employing diagnostic tools can provide a definitive answer. Automotive professionals can also quickly identify the system type and offer guidance on maintenance or necessary repairs.
 
